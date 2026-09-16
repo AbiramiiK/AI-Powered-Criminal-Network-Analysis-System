@@ -1,0 +1,16 @@
+person_id,full_name,primary_alias,alternate_alias,phone_id_primary,phone_id_secondary,address_zone,organization,entity_type,data_source,synthetic_data
+P001,Arun Kumar,AK,A. Kumar,SIM-1000,SIM-2000,"North Zone, Synthetic Demonstration Region",Independent,PERSON,Synthetic Demonstration Dataset,True
+P002,Bala Raj,Bala,,SIM-1001,,"South Zone, Synthetic Demonstration Region",Synthetic Trading Group,PERSON,Synthetic Demonstration Dataset,True
+P003,Charan Das,CD,C. Das,SIM-1002,,"East Zone, Synthetic Demonstration Region",Independent,PERSON,Synthetic Demonstration Dataset,True
+P004,Dev Kumar,Dev,,SIM-1003,SIM-2003,"West Zone, Synthetic Demonstration Region",Synthetic Logistics Services,PERSON,Synthetic Demonstration Dataset,True
+P005,Eshan Ravi,Eshan,E. Ravi,SIM-1004,,"Central Zone, Synthetic Demonstration Region",Independent,PERSON,Synthetic Demonstration Dataset,True
+P006,Farooq Ali,Faru,,SIM-1005,,"North Zone, Synthetic Demonstration Region",Independent,PERSON,Synthetic Demonstration Dataset,True
+P007,Gopi Nathan,GN,G. Nathan,SIM-1006,SIM-2006,"South Zone, Synthetic Demonstration Region",Synthetic Trading Group,PERSON,Synthetic Demonstration Dataset,True
+P008,Hari Prasad,HP,,SIM-1007,,"East Zone, Synthetic Demonstration Region",Independent,PERSON,Synthetic Demonstration Dataset,True
+P009,Imran Shah,Immy,I. Shah,SIM-1008,,"West Zone, Synthetic Demonstration Region",Synthetic Logistics Services,PERSON,Synthetic Demonstration Dataset,True
+P010,Jagan Mohan,Jagan,,SIM-1009,SIM-2009,"Central Zone, Synthetic Demonstration Region",Independent,PERSON,Synthetic Demonstration Dataset,True
+P011,Karthik Vel,KV,K. Vel,SIM-1010,,"North Zone, Synthetic Demonstration Region",Independent,PERSON,Synthetic Demonstration Dataset,True
+P012,Lokesh Mani,Lokesh,,SIM-1011,,"South Zone, Synthetic Demonstration Region",Synthetic Trading Group,PERSON,Synthetic Demonstration Dataset,True
+P013,Manoj Ravi,MR,M. Ravi,SIM-1012,SIM-2012,"East Zone, Synthetic Demonstration Region",Independent,PERSON,Synthetic Demonstration Dataset,True
+P014,Naveen Das,Navi,,SIM-1013,,"West Zone, Synthetic Demonstration Region",Synthetic Logistics Services,PERSON,Synthetic Demonstration Dataset,True
+P015,Prakash Dev,PD,P. Dev,SIM-1014,,"Central Zone, Synthetic Demonstration Region",Independent,PERSON,Synthetic Demonstration Dataset,True

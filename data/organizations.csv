@@ -1,0 +1,11 @@
+organization_id,organization_name,organization_type,region,description,synthetic_data
+SYN-ORG-001,Synthetic Trading Group,BUSINESS,Synthetic Demonstration Region,Fictional entity used for prototype network analysis; category business under review.,True
+SYN-ORG-002,Synthetic Logistics Services,BUSINESS,Synthetic Demonstration Region,Fictional entity used for prototype network analysis; category business under review.,True
+SYN-ORG-003,Riverside Traders Co-op,BUSINESS,Synthetic Demonstration Region,Fictional entity used for prototype network analysis; category business under review.,True
+SYN-ORG-004,Harborview Enterprises,BUSINESS,Synthetic Demonstration Region,Fictional entity used for prototype network analysis; category business under review.,True
+SYN-ORG-005,Bluepeak Holdings,FRONT_COMPANY,Synthetic Demonstration Region,Fictional entity used for prototype network analysis; category front company under review.,True
+SYN-ORG-006,Sunrise Welfare Association,UNKNOWN_GROUP,Synthetic Demonstration Region,Fictional entity used for prototype network analysis; category unknown group under review.,True
+SYN-ORG-007,Eastfield Transport Union,INFORMAL_GROUP,Synthetic Demonstration Region,Fictional entity used for prototype network analysis; category informal group under review.,True
+SYN-ORG-008,Crestline Import-Export,FRONT_COMPANY,Synthetic Demonstration Region,Fictional entity used for prototype network analysis; category front company under review.,True
+SYN-ORG-009,Lakeside Business Circle,INFORMAL_GROUP,Synthetic Demonstration Region,Fictional entity used for prototype network analysis; category informal group under review.,True
+SYN-ORG-010,Ironwood Ventures,FRONT_COMPANY,Synthetic Demonstration Region,Fictional entity used for prototype network analysis; category front company under review.,True

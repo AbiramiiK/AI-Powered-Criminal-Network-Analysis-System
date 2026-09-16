@@ -1,0 +1,7 @@
+typology_name,description,our_pattern_label_equivalent,detection_signal,source
+Fan-Out (Layering),Funds from a single source are rapidly split across many receiving accounts to obscure origin.,TRANSACTION_CHAIN,"One sender, unusually high count of distinct receivers in a short window","IBM AML-Data README (github.com/IBM/AML-Data), typology description"
+Fan-In (Layering),Funds from many distinct senders converge on a single receiving account before further movement.,TRANSACTION_CHAIN,"One receiver, unusually high count of distinct senders in a short window",IBM AML-Data README
+Cycle,"Funds move through a closed loop of accounts and return, in part, to the originator.",CIRCULAR_FLOW,Directed cycle detected in the transaction graph (A->B->C->A),IBM AML-Data README
+Stacked / Repeated Bilateral Transfers,"Same sender-receiver pair transacts repeatedly at high value, often just under reporting thresholds.",REPEATED_HIGH_VALUE,High transaction count and/or value concentrated on one sender-receiver edge,IBM AML-Data README
+Gather-Scatter,"Funds are gathered from multiple sources into a hub, then scattered out to a different set of accounts.",TRANSACTION_CHAIN / CIRCULAR_FLOW (combined),Hub node with high in-degree followed shortly by high out-degree,IBM AML-Data README
+Legitimate / Background Activity,"Ordinary bilateral payments with no structuring, no repetition anomalies, no cyclic paths.",NORMAL,No anomaly flags raised by chain/cycle/frequency detectors,IBM AML-Data README

@@ -1,0 +1,21 @@
+vehicle_id,registration_id,primary_owner_id,vehicle_type,model_label,color_description,data_source,synthetic_data
+V001,TN-SYN-1001,P006,Two-Wheeler,Model-G7,Red,Synthetic Demonstration Dataset,True
+V002,TN-SYN-1002,P001,Sedan,Model-B2,Silver,Synthetic Demonstration Dataset,True
+V003,TN-SYN-1003,P010,Sedan,Model-D4,White,Synthetic Demonstration Dataset,True
+V004,TN-SYN-1004,P002,Van,Model-G7,White,Synthetic Demonstration Dataset,True
+V005,TN-SYN-1005,P004,Sedan,Model-G7,White,Synthetic Demonstration Dataset,True
+V006,TN-SYN-1006,P014,Pickup Truck,Model-B2,Black,Synthetic Demonstration Dataset,True
+V007,TN-SYN-1007,P011,Hatchback,Model-A1,Blue,Synthetic Demonstration Dataset,True
+V008,TN-SYN-1008,P010,Van,Model-A1,Black,Synthetic Demonstration Dataset,True
+V009,TN-SYN-1009,P001,Pickup Truck,Model-C3,Silver,Synthetic Demonstration Dataset,True
+V010,TN-SYN-1010,P007,Two-Wheeler,Model-B2,Blue,Synthetic Demonstration Dataset,True
+V011,TN-SYN-1011,P005,Pickup Truck,Model-C3,White,Synthetic Demonstration Dataset,True
+V012,TN-SYN-1012,P010,Pickup Truck,Model-D4,Silver,Synthetic Demonstration Dataset,True
+V013,TN-SYN-1013,P002,Pickup Truck,Model-B2,Blue,Synthetic Demonstration Dataset,True
+V014,TN-SYN-1014,P001,Pickup Truck,Model-D4,Grey,Synthetic Demonstration Dataset,True
+V015,TN-SYN-1015,P011,Pickup Truck,Model-G7,Maroon,Synthetic Demonstration Dataset,True
+V016,TN-SYN-1016,P003,Van,Model-H8,Silver,Synthetic Demonstration Dataset,True
+V017,TN-SYN-1017,P005,Two-Wheeler,Model-C3,Red,Synthetic Demonstration Dataset,True
+V018,TN-SYN-1018,P008,Two-Wheeler,Model-B2,Blue,Synthetic Demonstration Dataset,True
+V019,TN-SYN-1019,P010,Pickup Truck,Model-H8,Silver,Synthetic Demonstration Dataset,True
+V020,TN-SYN-1020,P004,Van,Model-E5,Blue,Synthetic Demonstration Dataset,True

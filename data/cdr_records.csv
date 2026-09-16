@@ -1,0 +1,1001 @@
+call_id,caller_id,receiver_id,timestamp,duration_seconds,communication_type,cell_location,data_source,synthetic_data
+SYN-CDR-00418,P005,P010,2026-01-01 07:38:00,975,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00413,P005,P010,2026-01-01 08:04:00,169,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00653,P008,P012,2026-01-01 23:20:00,109,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00681,P010,P013,2026-01-02 01:26:00,176,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00432,P003,P007,2026-01-02 01:59:00,1444,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00346,P015,P002,2026-01-02 03:02:00,1057,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00399,P006,P009,2026-01-02 09:50:00,108,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00717,P008,P012,2026-01-02 10:51:00,326,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00358,P003,P004,2026-01-02 23:33:00,1451,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00496,P007,P009,2026-01-03 01:21:00,863,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00826,P012,P014,2026-01-03 09:59:00,275,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00704,P006,P008,2026-01-03 17:03:00,1169,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00998,P002,P005,2026-01-03 21:20:00,430,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00129,P003,P007,2026-01-03 21:56:00,1748,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00156,P004,P001,2026-01-03 22:21:00,473,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00724,P006,P010,2026-01-04 00:31:00,1504,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00355,P010,P004,2026-01-04 01:27:00,1360,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00718,P010,P009,2026-01-04 06:11:00,1073,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00485,P004,P011,2026-01-04 10:50:00,523,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00096,P003,P007,2026-01-04 13:32:00,393,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00453,P010,P013,2026-01-05 12:02:00,875,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00962,P005,P001,2026-01-05 13:13:00,1431,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00567,P002,P001,2026-01-05 19:17:00,1167,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00042,P009,P007,2026-01-06 07:15:00,683,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00037,P003,P005,2026-01-06 15:14:00,1180,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00737,P005,P001,2026-01-07 09:32:00,1628,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00381,P008,P012,2026-01-07 12:20:00,1275,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00005,P003,P004,2026-01-07 13:25:00,1792,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00452,P008,P012,2026-01-07 20:14:00,492,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00655,P003,P007,2026-01-08 01:08:00,634,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00783,P013,P012,2026-01-08 03:49:00,1044,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00193,P003,P004,2026-01-08 07:06:00,1091,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00402,P004,P011,2026-01-08 11:06:00,1723,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00433,P009,P002,2026-01-08 11:33:00,581,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00755,P014,P015,2026-01-08 15:18:00,697,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00076,P006,P009,2026-01-08 19:59:00,604,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00689,P010,P013,2026-01-08 23:23:00,1495,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00109,P003,P008,2026-01-09 11:45:00,786,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00903,P011,P015,2026-01-09 17:31:00,712,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00818,P009,P006,2026-01-09 23:05:00,408,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00821,P015,P010,2026-01-10 04:41:00,1154,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00486,P007,P006,2026-01-10 04:47:00,1623,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00455,P014,P015,2026-01-10 05:00:00,1304,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00907,P008,P009,2026-01-10 12:11:00,1130,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00817,P012,P014,2026-01-10 14:57:00,458,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00245,P015,P010,2026-01-10 17:16:00,1021,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00815,P008,P012,2026-01-11 05:06:00,356,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00974,P005,P010,2026-01-11 09:16:00,1459,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00274,P008,P012,2026-01-12 03:18:00,1734,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00222,P005,P001,2026-01-12 11:23:00,628,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00212,P014,P011,2026-01-12 13:13:00,1335,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00964,P005,P001,2026-01-12 20:07:00,1204,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00313,P002,P004,2026-01-13 03:20:00,142,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00021,P003,P007,2026-01-13 18:39:00,451,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00471,P004,P011,2026-01-14 07:00:00,801,SMS,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00888,P010,P008,2026-01-14 09:08:00,71,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00379,P015,P011,2026-01-14 14:41:00,1587,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00832,P004,P001,2026-01-15 01:29:00,1508,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00854,P014,P011,2026-01-15 04:55:00,852,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00711,P014,P012,2026-01-15 07:02:00,930,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00697,P007,P006,2026-01-15 14:37:00,472,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00295,P004,P011,2026-01-15 17:59:00,1188,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00260,P008,P009,2026-01-15 21:07:00,602,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00514,P011,P012,2026-01-15 22:16:00,639,SMS,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00125,P003,P007,2026-01-16 01:11:00,411,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00889,P004,P011,2026-01-16 03:34:00,315,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00652,P005,P010,2026-01-16 05:24:00,982,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00192,P005,P010,2026-01-16 08:56:00,1576,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00273,P014,P013,2026-01-16 17:22:00,1377,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00520,P012,P015,2026-01-16 17:24:00,730,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00867,P008,P006,2026-01-16 18:13:00,542,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00083,P008,P012,2026-01-16 18:31:00,262,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00430,P009,P007,2026-01-16 23:21:00,58,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00557,P003,P005,2026-01-17 00:21:00,1074,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00778,P001,P002,2026-01-17 01:17:00,121,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00009,P007,P014,2026-01-17 04:37:00,1487,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00538,P007,P010,2026-01-17 05:20:00,1720,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00828,P015,P012,2026-01-17 16:13:00,223,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00137,P001,P012,2026-01-17 23:54:00,183,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00707,P014,P015,2026-01-18 01:37:00,997,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00082,P004,P002,2026-01-18 03:01:00,814,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00117,P003,P005,2026-01-18 03:38:00,1332,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00970,P014,P015,2026-01-18 08:24:00,1245,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00583,P010,P013,2026-01-18 14:06:00,784,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00174,P008,P012,2026-01-18 20:36:00,29,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00308,P006,P002,2026-01-19 02:44:00,607,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00691,P010,P006,2026-01-20 02:07:00,197,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00647,P003,P005,2026-01-20 17:52:00,320,SMS,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00919,P010,P013,2026-01-21 08:36:00,55,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00417,P012,P013,2026-01-21 15:18:00,1185,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00636,P015,P011,2026-01-21 21:29:00,650,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00836,P008,P012,2026-01-22 09:01:00,1033,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00792,P008,P007,2026-01-22 23:29:00,1596,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00075,P013,P003,2026-01-23 00:41:00,1176,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00900,P013,P011,2026-01-23 16:58:00,95,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00359,P001,P004,2026-01-23 21:12:00,345,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00796,P010,P013,2026-01-23 23:44:00,274,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00940,P004,P011,2026-01-24 00:26:00,1075,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00927,P006,P013,2026-01-24 04:17:00,1240,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00385,P012,P013,2026-01-24 08:12:00,597,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00617,P005,P010,2026-01-24 08:15:00,733,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00177,P012,P014,2026-01-24 12:10:00,182,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00185,P008,P012,2026-01-24 12:27:00,995,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00370,P004,P011,2026-01-24 12:46:00,943,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00760,P013,P012,2026-01-24 20:31:00,722,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00658,P002,P004,2026-01-25 00:05:00,690,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00228,P015,P012,2026-01-25 01:57:00,270,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00132,P007,P010,2026-01-25 01:58:00,996,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00983,P001,P002,2026-01-25 23:22:00,1004,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00022,P008,P012,2026-01-26 06:00:00,1045,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00984,P003,P005,2026-01-26 11:17:00,904,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00213,P009,P010,2026-01-26 13:07:00,466,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00942,P008,P012,2026-01-26 19:06:00,1478,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00840,P003,P001,2026-01-26 20:00:00,392,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00202,P003,P002,2026-01-26 22:25:00,679,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00530,P011,P013,2026-01-27 13:50:00,36,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00066,P003,P007,2026-01-27 15:02:00,1146,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00947,P004,P011,2026-01-27 17:20:00,922,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00344,P001,P009,2026-01-27 17:30:00,1228,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00827,P014,P003,2026-01-27 23:02:00,511,SMS,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00070,P007,P004,2026-01-28 06:55:00,1800,SMS,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00528,P012,P004,2026-01-28 15:06:00,1496,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00742,P004,P011,2026-01-28 21:01:00,1292,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00393,P009,P008,2026-01-28 21:47:00,847,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00634,P002,P003,2026-01-29 00:08:00,510,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00046,P015,P011,2026-01-29 11:15:00,795,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00548,P002,P004,2026-01-29 11:20:00,221,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00710,P010,P008,2026-01-29 16:25:00,713,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00268,P011,P015,2026-01-30 00:53:00,1549,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00419,P003,P007,2026-01-30 07:51:00,1054,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00723,P002,P015,2026-01-30 10:00:00,1129,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00369,P005,P010,2026-01-30 12:01:00,1741,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00750,P007,P006,2026-01-30 13:45:00,1689,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00103,P005,P010,2026-01-30 19:37:00,1488,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00930,P005,P010,2026-01-31 04:55:00,1733,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00154,P010,P013,2026-01-31 08:34:00,32,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00860,P008,P012,2026-01-31 10:22:00,1160,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00534,P003,P007,2026-01-31 14:31:00,176,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00182,P015,P014,2026-01-31 14:45:00,162,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00803,P004,P011,2026-01-31 17:12:00,1263,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00912,P004,P011,2026-01-31 18:36:00,1747,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00265,P007,P010,2026-01-31 19:10:00,95,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00990,P001,P004,2026-02-01 05:28:00,490,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00813,P014,P012,2026-02-01 12:15:00,1362,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00262,P004,P011,2026-02-01 13:04:00,972,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00318,P010,P013,2026-02-02 12:06:00,1156,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00240,P015,P014,2026-02-02 15:19:00,375,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00438,P008,P010,2026-02-02 16:16:00,1411,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00695,P005,P002,2026-02-02 16:28:00,1323,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00267,P001,P002,2026-02-03 01:09:00,401,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00833,P004,P002,2026-02-03 10:35:00,552,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00487,P015,P014,2026-02-03 18:27:00,1060,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00365,P003,P005,2026-02-03 22:27:00,499,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00878,P005,P002,2026-02-04 00:37:00,414,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00007,P001,P002,2026-02-04 00:59:00,306,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00404,P010,P013,2026-02-04 04:40:00,1559,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00600,P010,P013,2026-02-04 06:57:00,1317,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00010,P009,P006,2026-02-04 14:12:00,267,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00592,P015,P013,2026-02-04 14:59:00,1194,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00028,P015,P011,2026-02-04 17:37:00,449,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00656,P007,P006,2026-02-04 21:44:00,1110,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00015,P004,P013,2026-02-05 00:02:00,503,SMS,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00253,P003,P015,2026-02-05 09:58:00,830,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00719,P014,P011,2026-02-05 11:11:00,96,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00204,P005,P010,2026-02-05 16:58:00,555,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00304,P014,P011,2026-02-06 06:26:00,449,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00846,P006,P007,2026-02-06 13:15:00,588,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00982,P012,P014,2026-02-06 19:52:00,1566,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00886,P008,P012,2026-02-07 06:32:00,760,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00167,P001,P003,2026-02-07 18:23:00,885,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00758,P005,P010,2026-02-08 02:48:00,552,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00041,P003,P007,2026-02-08 14:47:00,1109,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00287,P003,P002,2026-02-08 22:27:00,368,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00542,P005,P002,2026-02-09 00:55:00,196,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00566,P004,P011,2026-02-09 05:24:00,294,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00781,P003,P007,2026-02-09 11:28:00,1326,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00899,P006,P013,2026-02-09 15:23:00,647,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00472,P007,P008,2026-02-10 00:08:00,133,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00623,P008,P012,2026-02-10 06:29:00,1788,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00353,P008,P006,2026-02-10 11:21:00,1445,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00810,P007,P006,2026-02-10 17:41:00,1569,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00734,P013,P012,2026-02-11 01:48:00,427,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00550,P008,P007,2026-02-11 05:08:00,1352,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00646,P011,P014,2026-02-11 12:34:00,1051,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00233,P004,P011,2026-02-11 14:53:00,430,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00811,P004,P002,2026-02-11 18:17:00,1079,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00341,P005,P010,2026-02-11 21:21:00,900,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00495,P008,P012,2026-02-11 22:58:00,1648,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00221,P002,P001,2026-02-12 04:23:00,1683,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00555,P010,P007,2026-02-12 08:16:00,54,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00654,P011,P015,2026-02-12 16:57:00,504,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00429,P003,P007,2026-02-13 01:53:00,1593,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00214,P010,P013,2026-02-13 02:28:00,777,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00802,P008,P012,2026-02-13 04:27:00,1025,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00211,P002,P003,2026-02-13 09:00:00,1320,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00263,P014,P012,2026-02-13 11:24:00,944,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00898,P005,P010,2026-02-13 16:32:00,559,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00752,P009,P002,2026-02-13 23:02:00,1517,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00928,P005,P006,2026-02-14 04:59:00,1701,SMS,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00225,P011,P013,2026-02-14 08:47:00,1729,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00303,P010,P014,2026-02-14 09:04:00,1234,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00340,P015,P012,2026-02-14 12:18:00,859,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00324,P011,P013,2026-02-14 13:58:00,1094,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00362,P008,P012,2026-02-14 15:44:00,1726,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00769,P004,P011,2026-02-15 11:10:00,1757,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00523,P010,P006,2026-02-15 14:35:00,549,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00183,P008,P012,2026-02-15 23:55:00,1495,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00662,P002,P006,2026-02-16 00:43:00,1337,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00181,P013,P011,2026-02-16 01:11:00,1106,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00669,P013,P005,2026-02-16 04:40:00,1515,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00680,P010,P013,2026-02-16 09:52:00,1633,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00546,P004,P011,2026-02-16 14:42:00,1041,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00535,P003,P002,2026-02-17 01:57:00,925,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00756,P003,P007,2026-02-17 04:17:00,531,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00955,P004,P011,2026-02-17 20:42:00,813,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00368,P001,P004,2026-02-18 06:58:00,109,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00728,P012,P014,2026-02-18 23:31:00,638,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00503,P014,P011,2026-02-19 10:00:00,447,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00133,P003,P007,2026-02-19 18:03:00,1424,SMS,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00603,P014,P003,2026-02-19 18:15:00,50,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00459,P005,P010,2026-02-19 19:30:00,815,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00130,P010,P013,2026-02-19 19:48:00,738,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00249,P008,P011,2026-02-19 19:56:00,1107,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00521,P010,P008,2026-02-19 23:32:00,1356,SMS,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00466,P005,P001,2026-02-20 12:26:00,1784,SMS,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00207,P003,P013,2026-02-20 12:49:00,320,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00244,P006,P009,2026-02-21 05:52:00,308,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00352,P003,P001,2026-02-21 08:56:00,152,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00988,P015,P013,2026-02-21 11:02:00,273,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00814,P004,P001,2026-02-21 17:06:00,1689,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00215,P006,P009,2026-02-22 01:16:00,1650,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00123,P010,P013,2026-02-22 12:09:00,1444,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00598,P010,P002,2026-02-22 19:02:00,1194,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00468,P010,P013,2026-02-22 20:04:00,1090,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00943,P007,P008,2026-02-22 22:01:00,141,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00842,P009,P013,2026-02-23 02:04:00,973,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00642,P003,P007,2026-02-23 10:49:00,1225,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00489,P007,P014,2026-02-23 15:59:00,953,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00777,P003,P002,2026-02-23 23:16:00,1797,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00116,P004,P011,2026-02-24 06:44:00,115,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00879,P005,P010,2026-02-24 08:03:00,536,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00378,P004,P011,2026-02-24 11:25:00,1095,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00080,P010,P013,2026-02-24 11:57:00,497,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00223,P014,P004,2026-02-24 14:30:00,1181,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00782,P002,P003,2026-02-24 23:09:00,873,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00306,P013,P005,2026-02-25 01:27:00,1256,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00339,P008,P009,2026-02-25 09:10:00,928,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00556,P002,P003,2026-02-25 12:30:00,1144,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00364,P002,P010,2026-02-25 13:07:00,1025,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00678,P005,P001,2026-02-26 09:07:00,1282,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00219,P001,P013,2026-02-26 09:49:00,404,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00062,P004,P011,2026-02-27 05:59:00,1159,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00201,P003,P005,2026-02-27 06:32:00,1504,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00774,P003,P007,2026-02-27 10:00:00,1110,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00599,P008,P012,2026-02-27 11:28:00,1493,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00614,P012,P013,2026-02-28 05:59:00,1021,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00081,P003,P001,2026-02-28 15:55:00,1693,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00776,P003,P005,2026-02-28 17:57:00,480,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00914,P008,P012,2026-02-28 22:08:00,744,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00609,P004,P011,2026-03-01 04:26:00,880,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00357,P005,P003,2026-03-01 05:15:00,1228,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00093,P010,P006,2026-03-01 07:35:00,1330,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00713,P001,P004,2026-03-01 08:12:00,700,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00946,P008,P015,2026-03-01 08:33:00,431,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00801,P004,P011,2026-03-01 17:08:00,1505,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00048,P013,P014,2026-03-01 19:19:00,1665,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00135,P008,P012,2026-03-02 11:20:00,1607,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00254,P004,P011,2026-03-03 06:36:00,238,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00494,P011,P014,2026-03-03 09:47:00,711,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00959,P004,P011,2026-03-03 11:37:00,189,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00161,P001,P011,2026-03-03 14:38:00,769,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00312,P003,P002,2026-03-03 22:14:00,1046,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00333,P005,P010,2026-03-04 01:31:00,1058,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00300,P006,P004,2026-03-04 15:31:00,932,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00587,P010,P013,2026-03-04 15:44:00,120,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00631,P003,P004,2026-03-04 17:35:00,1048,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00960,P004,P002,2026-03-05 09:15:00,1768,SMS,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00134,P005,P002,2026-03-05 11:39:00,1489,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00293,P011,P015,2026-03-05 13:40:00,185,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00808,P006,P012,2026-03-05 20:41:00,1160,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00987,P015,P007,2026-03-06 00:29:00,1666,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00666,P007,P008,2026-03-06 06:24:00,919,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00628,P011,P015,2026-03-06 12:51:00,1207,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00740,P004,P011,2026-03-07 01:59:00,695,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00040,P010,P015,2026-03-07 03:44:00,1045,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00834,P005,P010,2026-03-07 08:11:00,1104,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00329,P005,P010,2026-03-07 13:29:00,339,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00443,P006,P007,2026-03-07 15:59:00,675,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00327,P006,P010,2026-03-08 10:40:00,1656,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00043,P010,P013,2026-03-08 23:51:00,1551,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00349,P003,P007,2026-03-09 08:17:00,1215,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00184,P005,P010,2026-03-09 13:56:00,1252,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00484,P004,P011,2026-03-09 16:36:00,285,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00164,P015,P011,2026-03-09 21:46:00,918,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00925,P010,P007,2026-03-10 08:05:00,971,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00309,P010,P009,2026-03-10 09:50:00,1148,SMS,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00256,P013,P011,2026-03-10 18:42:00,598,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00722,P002,P005,2026-03-10 20:28:00,1494,SMS,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00270,P010,P013,2026-03-11 02:29:00,716,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00269,P004,P002,2026-03-11 06:30:00,704,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00874,P003,P007,2026-03-11 20:46:00,562,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00394,P014,P001,2026-03-11 22:06:00,1718,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00175,P009,P008,2026-03-12 13:41:00,1301,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00751,P005,P002,2026-03-12 14:13:00,69,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00271,P006,P007,2026-03-12 18:15:00,1610,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00871,P004,P011,2026-03-13 03:46:00,1707,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00688,P010,P013,2026-03-13 12:24:00,1026,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00515,P004,P007,2026-03-13 13:07:00,624,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00700,P013,P011,2026-03-13 14:58:00,1086,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00622,P007,P014,2026-03-13 18:58:00,1728,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00171,P013,P014,2026-03-13 21:41:00,85,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00045,P004,P011,2026-03-14 12:34:00,1520,SMS,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00891,P003,P007,2026-03-15 01:31:00,1416,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00366,P013,P012,2026-03-15 10:57:00,763,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00661,P005,P010,2026-03-15 16:33:00,206,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00882,P011,P013,2026-03-16 00:30:00,94,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00715,P011,P013,2026-03-16 01:19:00,1753,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00924,P004,P011,2026-03-16 06:57:00,1338,SMS,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00302,P008,P012,2026-03-16 08:03:00,1238,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00873,P009,P013,2026-03-16 14:12:00,370,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00277,P005,P010,2026-03-17 00:01:00,1032,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00908,P010,P008,2026-03-17 21:14:00,704,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00608,P005,P001,2026-03-18 01:10:00,897,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00936,P007,P012,2026-03-18 04:26:00,314,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00773,P015,P003,2026-03-18 23:45:00,184,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00670,P008,P013,2026-03-19 05:39:00,736,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00838,P015,P010,2026-03-19 13:09:00,1776,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00986,P011,P015,2026-03-19 14:58:00,555,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00142,P008,P012,2026-03-20 09:03:00,621,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00885,P015,P008,2026-03-20 16:32:00,901,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00559,P014,P013,2026-03-20 17:10:00,298,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00630,P007,P008,2026-03-20 22:32:00,1426,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00957,P012,P013,2026-03-21 04:17:00,611,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00545,P006,P008,2026-03-21 09:01:00,1722,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00690,P013,P011,2026-03-22 01:58:00,1564,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00741,P005,P007,2026-03-22 02:22:00,372,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00190,P003,P007,2026-03-22 08:49:00,757,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00904,P008,P012,2026-03-23 20:44:00,917,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00326,P003,P002,2026-03-24 00:09:00,1621,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00935,P007,P006,2026-03-24 08:36:00,1512,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00564,P004,P011,2026-03-24 10:02:00,517,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00330,P005,P010,2026-03-24 10:06:00,388,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00146,P009,P008,2026-03-24 12:53:00,330,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00050,P014,P013,2026-03-24 20:04:00,537,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00237,P012,P011,2026-03-25 00:02:00,303,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00967,P011,P014,2026-03-25 04:12:00,597,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00475,P004,P011,2026-03-25 04:53:00,1189,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00231,P013,P015,2026-03-25 09:46:00,1493,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00160,P004,P011,2026-03-25 12:32:00,837,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00288,P004,P011,2026-03-25 17:45:00,1632,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00816,P015,P013,2026-03-26 05:42:00,1132,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00206,P003,P007,2026-03-26 09:38:00,313,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00757,P005,P010,2026-03-26 10:13:00,1436,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00400,P003,P007,2026-03-26 10:49:00,1490,SMS,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00511,P010,P013,2026-03-26 12:04:00,720,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00606,P001,P005,2026-03-26 21:32:00,731,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00693,P008,P010,2026-03-26 23:57:00,1485,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00398,P013,P014,2026-03-27 15:28:00,81,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00563,P005,P010,2026-03-27 18:19:00,1002,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00584,P008,P006,2026-03-28 05:39:00,1691,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00275,P005,P003,2026-03-28 21:17:00,1147,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00604,P007,P006,2026-03-29 05:58:00,1084,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00463,P012,P013,2026-03-29 08:09:00,1604,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00963,P008,P012,2026-03-29 09:56:00,1635,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00325,P007,P004,2026-03-29 09:58:00,1779,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00198,P011,P014,2026-03-29 14:36:00,1180,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00989,P004,P011,2026-03-29 17:45:00,639,SMS,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00257,P010,P008,2026-03-29 18:57:00,78,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00259,P014,P015,2026-03-30 03:13:00,348,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00431,P001,P002,2026-03-30 17:48:00,144,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00251,P001,P003,2026-03-30 19:55:00,733,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00363,P009,P006,2026-03-30 22:42:00,589,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00493,P014,P015,2026-03-31 15:23:00,1024,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00008,P009,P004,2026-03-31 16:22:00,430,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00441,P009,P008,2026-04-01 01:09:00,844,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00410,P012,P011,2026-04-01 17:30:00,529,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00406,P003,P007,2026-04-01 20:50:00,1692,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00698,P014,P013,2026-04-02 16:09:00,1476,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00909,P005,P004,2026-04-03 04:49:00,1516,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00980,P010,P014,2026-04-03 08:19:00,691,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00969,P008,P007,2026-04-03 14:18:00,217,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00375,P003,P004,2026-04-03 20:53:00,585,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00729,P009,P010,2026-04-04 17:31:00,916,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00635,P006,P008,2026-04-04 17:46:00,489,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00726,P005,P010,2026-04-04 18:03:00,194,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00086,P004,P011,2026-04-04 18:55:00,763,SMS,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00099,P008,P012,2026-04-04 20:46:00,1784,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00712,P009,P006,2026-04-05 05:00:00,571,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00839,P005,P010,2026-04-05 21:55:00,1252,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00585,P005,P004,2026-04-06 02:43:00,672,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00018,P011,P013,2026-04-06 04:57:00,157,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00525,P002,P009,2026-04-06 17:35:00,1453,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00087,P003,P005,2026-04-06 19:47:00,985,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00456,P007,P009,2026-04-06 23:04:00,51,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00151,P005,P015,2026-04-06 23:23:00,1202,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00047,P001,P004,2026-04-06 23:37:00,1549,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00902,P005,P010,2026-04-07 03:04:00,438,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00500,P006,P002,2026-04-07 11:40:00,1524,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00220,P006,P008,2026-04-07 13:30:00,1086,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00848,P002,P004,2026-04-07 17:23:00,897,SMS,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00607,P005,P001,2026-04-07 18:21:00,1267,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00107,P008,P012,2026-04-08 17:11:00,554,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00979,P002,P006,2026-04-08 19:10:00,203,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00766,P014,P015,2026-04-09 02:36:00,1788,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00696,P004,P011,2026-04-09 04:09:00,163,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00601,P007,P009,2026-04-09 06:13:00,1107,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00806,P005,P010,2026-04-09 15:15:00,1348,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00217,P014,P013,2026-04-09 15:24:00,1086,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00115,P003,P007,2026-04-09 18:39:00,1173,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00720,P003,P005,2026-04-09 22:06:00,868,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00282,P006,P008,2026-04-10 05:53:00,845,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00044,P004,P011,2026-04-10 13:56:00,867,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00972,P008,P012,2026-04-10 20:33:00,1008,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00626,P008,P007,2026-04-11 08:32:00,252,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00025,P004,P011,2026-04-11 11:48:00,1540,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00739,P003,P007,2026-04-11 13:10:00,223,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00141,P003,P007,2026-04-11 15:59:00,337,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00861,P008,P006,2026-04-11 17:17:00,1651,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00922,P010,P013,2026-04-12 06:17:00,57,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00315,P006,P007,2026-04-12 06:21:00,187,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00829,P008,P012,2026-04-12 07:28:00,1663,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00179,P003,P007,2026-04-12 22:51:00,1476,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00725,P001,P005,2026-04-13 07:46:00,1616,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00405,P004,P011,2026-04-13 18:17:00,747,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00795,P006,P007,2026-04-14 04:26:00,966,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00196,P004,P011,2026-04-14 10:23:00,1264,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00063,P005,P006,2026-04-14 10:49:00,836,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00851,P001,P004,2026-04-14 11:42:00,1033,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00547,P010,P006,2026-04-14 13:17:00,1739,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00118,P003,P007,2026-04-14 21:33:00,894,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00236,P011,P012,2026-04-14 21:58:00,1182,SMS,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00436,P002,P003,2026-04-14 22:47:00,662,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00065,P004,P001,2026-04-15 01:59:00,747,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00951,P015,P014,2026-04-15 16:52:00,946,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00618,P004,P011,2026-04-15 17:38:00,1604,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00775,P005,P004,2026-04-15 19:49:00,1201,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00337,P015,P014,2026-04-15 20:05:00,1140,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00291,P008,P003,2026-04-15 22:45:00,1507,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00479,P003,P005,2026-04-16 05:45:00,991,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00488,P001,P004,2026-04-16 11:15:00,74,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00011,P014,P007,2026-04-16 14:50:00,1473,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00200,P005,P010,2026-04-17 05:03:00,1749,SMS,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00866,P010,P013,2026-04-17 08:18:00,15,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00976,P014,P015,2026-04-17 09:55:00,306,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00597,P003,P007,2026-04-17 15:35:00,1636,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00640,P001,P004,2026-04-17 16:10:00,125,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00996,P004,P011,2026-04-17 19:55:00,1098,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00227,P003,P007,2026-04-19 02:11:00,268,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00457,P003,P007,2026-04-19 09:37:00,290,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00807,P011,P012,2026-04-19 15:30:00,1149,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00657,P014,P009,2026-04-19 20:14:00,1729,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00660,P013,P011,2026-04-19 20:43:00,1528,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00526,P003,P007,2026-04-20 06:50:00,660,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00127,P014,P012,2026-04-20 07:53:00,1738,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00372,P010,P013,2026-04-20 13:53:00,891,SMS,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00529,P007,P015,2026-04-20 17:18:00,1728,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00226,P004,P011,2026-04-20 18:26:00,750,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00276,P009,P010,2026-04-21 02:09:00,1424,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00389,P003,P002,2026-04-21 10:28:00,1378,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00830,P003,P002,2026-04-21 15:12:00,1588,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00994,P005,P010,2026-04-21 20:37:00,525,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00611,P004,P011,2026-04-21 23:44:00,1094,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00450,P003,P014,2026-04-22 01:05:00,1482,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00323,P005,P003,2026-04-22 11:29:00,238,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00822,P010,P013,2026-04-22 16:54:00,776,SMS,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00092,P007,P005,2026-04-23 00:28:00,1713,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00284,P005,P010,2026-04-23 06:45:00,1251,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00602,P005,P010,2026-04-23 06:58:00,878,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00532,P015,P014,2026-04-23 07:20:00,207,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00897,P004,P005,2026-04-23 09:00:00,238,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00837,P009,P008,2026-04-23 13:16:00,881,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00017,P008,P007,2026-04-23 19:56:00,979,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00197,P013,P012,2026-04-23 23:53:00,759,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00476,P015,P014,2026-04-24 01:23:00,133,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00465,P015,P014,2026-04-24 10:28:00,1199,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00272,P010,P008,2026-04-24 16:14:00,1360,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00278,P007,P006,2026-04-24 16:53:00,1757,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00619,P011,P012,2026-04-24 19:25:00,654,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00178,P005,P013,2026-04-24 22:23:00,583,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00470,P004,P011,2026-04-24 22:43:00,586,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00194,P010,P013,2026-04-25 14:22:00,987,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00863,P003,P004,2026-04-25 21:38:00,292,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00764,P006,P004,2026-04-26 00:00:00,1606,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00002,P005,P010,2026-04-26 09:46:00,60,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00977,P009,P013,2026-04-26 12:47:00,606,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00100,P012,P015,2026-04-26 15:01:00,119,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00120,P008,P012,2026-04-26 22:58:00,1051,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00232,P009,P006,2026-04-26 23:23:00,1401,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00113,P003,P005,2026-04-27 00:04:00,1625,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00411,P008,P006,2026-04-27 07:17:00,1254,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00052,P004,P011,2026-04-27 08:13:00,487,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00594,P003,P007,2026-04-28 02:42:00,1797,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00067,P014,P015,2026-04-28 05:03:00,460,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00292,P015,P011,2026-04-28 20:35:00,1115,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00390,P005,P010,2026-04-29 07:06:00,916,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00916,P008,P007,2026-04-29 09:49:00,1256,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00314,P011,P014,2026-04-29 09:57:00,1626,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00872,P001,P002,2026-04-29 16:07:00,1572,SMS,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00001,P014,P012,2026-04-29 16:09:00,1216,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00020,P012,P008,2026-04-29 20:05:00,1598,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00348,P013,P012,2026-04-29 23:56:00,1076,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00195,P012,P014,2026-04-30 01:10:00,923,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00735,P005,P015,2026-04-30 07:31:00,854,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00638,P003,P007,2026-04-30 08:26:00,1273,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00395,P008,P012,2026-04-30 11:37:00,1577,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00975,P005,P001,2026-04-30 14:16:00,523,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00336,P009,P010,2026-04-30 15:25:00,1409,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00322,P013,P014,2026-04-30 20:25:00,1740,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00579,P009,P015,2026-04-30 21:07:00,943,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00482,P006,P009,2026-05-01 01:43:00,1762,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00580,P008,P012,2026-05-01 06:02:00,1071,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00537,P004,P011,2026-05-01 21:45:00,1459,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00480,P010,P013,2026-05-01 22:41:00,850,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00451,P013,P005,2026-05-02 06:44:00,1746,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00071,P005,P004,2026-05-02 20:02:00,950,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00122,P002,P006,2026-05-03 10:27:00,1017,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00633,P011,P012,2026-05-03 10:58:00,814,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00896,P013,P011,2026-05-03 17:41:00,1314,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00944,P001,P005,2026-05-03 21:35:00,261,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00705,P008,P006,2026-05-03 21:55:00,583,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00334,P013,P011,2026-05-04 14:41:00,486,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00307,P004,P011,2026-05-04 14:41:00,1185,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00938,P010,P013,2026-05-04 21:07:00,1579,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00895,P004,P011,2026-05-05 06:45:00,76,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00831,P005,P010,2026-05-05 17:37:00,1425,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00931,P008,P006,2026-05-05 19:23:00,1418,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00679,P007,P009,2026-05-05 21:40:00,177,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00581,P002,P001,2026-05-06 05:08:00,768,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00820,P013,P015,2026-05-06 05:25:00,1083,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00905,P004,P011,2026-05-06 08:56:00,1211,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00199,P010,P013,2026-05-06 10:51:00,1061,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00473,P002,P005,2026-05-06 17:57:00,1621,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00762,P002,P001,2026-05-07 03:02:00,887,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00847,P008,P012,2026-05-07 03:27:00,1116,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00590,P001,P004,2026-05-07 07:46:00,868,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00576,P001,P004,2026-05-07 15:15:00,1321,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00865,P001,P003,2026-05-07 15:55:00,323,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00883,P008,P006,2026-05-07 19:31:00,494,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00281,P003,P007,2026-05-07 19:56:00,1564,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00027,P003,P007,2026-05-08 03:53:00,776,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00573,P007,P004,2026-05-08 05:53:00,1720,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00091,P006,P008,2026-05-08 21:35:00,720,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00235,P003,P007,2026-05-09 11:14:00,812,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00238,P015,P010,2026-05-09 16:49:00,1576,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00625,P003,P007,2026-05-10 06:06:00,187,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00454,P008,P007,2026-05-10 09:04:00,1003,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00241,P003,P007,2026-05-10 17:20:00,698,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00345,P010,P006,2026-05-10 22:11:00,1076,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00310,P007,P003,2026-05-11 02:07:00,1372,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00203,P009,P006,2026-05-11 08:14:00,216,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00289,P010,P009,2026-05-11 15:13:00,504,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00958,P003,P007,2026-05-11 17:13:00,1095,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00299,P003,P005,2026-05-12 00:28:00,820,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00173,P005,P009,2026-05-12 12:33:00,1645,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00868,P013,P011,2026-05-12 13:45:00,651,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00176,P007,P008,2026-05-12 15:28:00,720,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00716,P003,P002,2026-05-12 15:54:00,880,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00754,P004,P011,2026-05-12 19:44:00,1748,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00414,P015,P012,2026-05-13 06:56:00,1353,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00157,P010,P006,2026-05-13 07:39:00,1116,SMS,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00019,P008,P012,2026-05-13 08:51:00,1297,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00615,P001,P012,2026-05-13 17:28:00,302,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00733,P008,P012,2026-05-14 07:36:00,1042,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00110,P010,P013,2026-05-14 14:53:00,202,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00518,P004,P011,2026-05-14 21:09:00,1717,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00771,P005,P001,2026-05-15 03:32:00,953,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00901,P014,P012,2026-05-15 15:20:00,1627,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00301,P004,P011,2026-05-15 22:42:00,1771,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00483,P013,P001,2026-05-16 21:48:00,305,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00668,P003,P010,2026-05-17 07:09:00,1505,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00409,P008,P010,2026-05-17 07:57:00,786,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00397,P015,P011,2026-05-17 13:03:00,1545,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00677,P005,P010,2026-05-17 13:20:00,1761,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00036,P001,P005,2026-05-17 13:48:00,1134,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00464,P004,P011,2026-05-17 21:08:00,50,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00012,P001,P003,2026-05-17 21:56:00,1136,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00721,P003,P008,2026-05-17 23:18:00,805,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00659,P012,P015,2026-05-18 05:38:00,1655,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00539,P010,P013,2026-05-18 14:10:00,1790,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00869,P008,P012,2026-05-18 14:48:00,1417,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00145,P005,P010,2026-05-18 23:13:00,1487,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00311,P005,P010,2026-05-19 02:57:00,811,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00569,P011,P001,2026-05-19 11:33:00,564,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00258,P008,P009,2026-05-20 04:45:00,662,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00920,P008,P012,2026-05-20 15:41:00,210,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00031,P004,P012,2026-05-21 05:26:00,49,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00351,P015,P012,2026-05-21 06:38:00,113,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00420,P004,P011,2026-05-21 14:43:00,762,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00673,P007,P014,2026-05-21 16:18:00,407,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00616,P008,P012,2026-05-22 02:43:00,1336,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00571,P003,P005,2026-05-22 17:28:00,697,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00447,P003,P007,2026-05-22 17:33:00,83,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00003,P014,P015,2026-05-22 20:47:00,384,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00981,P003,P007,2026-05-23 21:05:00,1784,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00376,P009,P008,2026-05-24 00:18:00,1512,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00172,P011,P013,2026-05-24 04:51:00,1028,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00956,P014,P001,2026-05-24 13:57:00,341,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00786,P004,P003,2026-05-24 16:35:00,1182,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00727,P009,P004,2026-05-24 22:09:00,371,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00706,P011,P015,2026-05-25 09:32:00,1582,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00261,P003,P007,2026-05-25 15:01:00,1491,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00893,P008,P012,2026-05-26 06:36:00,1800,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00784,P013,P011,2026-05-26 10:19:00,1767,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00825,P004,P011,2026-05-26 23:50:00,346,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00985,P014,P010,2026-05-27 01:22:00,1646,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00747,P004,P003,2026-05-27 06:38:00,1152,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00279,P015,P013,2026-05-27 08:11:00,321,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00153,P003,P007,2026-05-27 10:53:00,156,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00687,P014,P013,2026-05-27 13:49:00,457,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00094,P004,P003,2026-05-27 17:33:00,844,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00492,P007,P010,2026-05-27 23:10:00,660,SMS,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00517,P002,P005,2026-05-28 05:19:00,1107,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00949,P010,P013,2026-05-28 11:29:00,1214,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00373,P011,P014,2026-05-28 11:52:00,945,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00383,P014,P013,2026-05-29 04:02:00,875,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00224,P008,P006,2026-05-29 04:37:00,1440,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00676,P004,P001,2026-05-29 06:15:00,1664,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00035,P004,P005,2026-05-29 06:26:00,419,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00852,P008,P012,2026-05-29 07:20:00,963,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00800,P007,P008,2026-05-29 08:54:00,1393,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00143,P012,P003,2026-05-29 19:35:00,930,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00250,P010,P013,2026-05-30 08:18:00,250,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00512,P008,P012,2026-05-30 08:58:00,1675,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00380,P015,P013,2026-05-30 09:19:00,1471,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00613,P004,P011,2026-05-30 13:32:00,332,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00407,P001,P005,2026-05-30 23:12:00,1442,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00937,P004,P002,2026-05-31 00:33:00,1625,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00335,P005,P010,2026-05-31 03:16:00,1133,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00169,P013,P011,2026-05-31 03:16:00,265,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00155,P015,P014,2026-05-31 15:48:00,554,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00788,P008,P012,2026-05-31 16:08:00,825,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00382,P001,P015,2026-05-31 16:54:00,168,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00971,P013,P014,2026-05-31 19:32:00,333,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00612,P005,P010,2026-05-31 23:29:00,145,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00498,P005,P010,2026-05-31 23:31:00,1039,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00857,P009,P006,2026-06-01 00:18:00,785,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00101,P008,P012,2026-06-01 00:28:00,325,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00139,P008,P010,2026-06-01 06:18:00,1305,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00230,P004,P011,2026-06-01 11:56:00,662,SMS,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00088,P002,P009,2026-06-01 18:53:00,750,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00910,P010,P013,2026-06-01 22:40:00,1138,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00524,P008,P010,2026-06-02 00:41:00,1620,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00014,P015,P014,2026-06-02 04:14:00,1333,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00038,P008,P010,2026-06-02 16:54:00,1448,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00506,P008,P012,2026-06-02 17:43:00,1364,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00090,P011,P012,2026-06-03 00:56:00,977,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00855,P002,P004,2026-06-03 04:22:00,67,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00049,P010,P013,2026-06-03 05:04:00,719,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00435,P005,P010,2026-06-03 13:49:00,1310,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00708,P005,P010,2026-06-04 00:28:00,1112,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00448,P008,P012,2026-06-04 05:34:00,1345,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00191,P006,P007,2026-06-04 09:49:00,226,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00026,P008,P012,2026-06-04 09:56:00,1103,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00835,P005,P003,2026-06-04 10:24:00,1716,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00952,P002,P003,2026-06-04 11:21:00,1694,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00106,P005,P010,2026-06-04 20:36:00,454,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00645,P006,P009,2026-06-04 22:48:00,1501,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00906,P008,P012,2026-06-05 13:46:00,277,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00624,P003,P015,2026-06-05 16:05:00,892,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00649,P003,P007,2026-06-05 16:45:00,217,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00805,P005,P010,2026-06-05 23:32:00,1612,SMS,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00388,P008,P002,2026-06-06 02:42:00,1513,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00478,P002,P010,2026-06-06 11:50:00,1174,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00016,P006,P010,2026-06-06 20:04:00,535,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00685,P002,P012,2026-06-06 23:14:00,1006,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00442,P008,P012,2026-06-07 01:38:00,374,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00138,P003,P007,2026-06-07 03:46:00,1224,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00663,P002,P011,2026-06-07 05:02:00,1546,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00843,P014,P015,2026-06-07 09:35:00,1012,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00890,P004,P005,2026-06-07 15:56:00,1530,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00186,P010,P009,2026-06-08 01:43:00,1060,SMS,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00054,P010,P007,2026-06-08 03:53:00,1546,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00819,P015,P012,2026-06-08 13:41:00,1493,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00953,P008,P012,2026-06-08 14:56:00,1325,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00973,P014,P011,2026-06-08 17:41:00,1733,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00794,P007,P008,2026-06-08 18:37:00,1486,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00643,P003,P001,2026-06-08 19:29:00,53,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00596,P009,P006,2026-06-08 23:13:00,159,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00119,P010,P013,2026-06-09 08:09:00,856,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00147,P005,P010,2026-06-09 13:11:00,781,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00444,P010,P009,2026-06-09 14:43:00,326,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00513,P001,P011,2026-06-10 09:06:00,1459,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00057,P003,P007,2026-06-10 09:43:00,1029,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00298,P010,P013,2026-06-11 07:34:00,1447,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00787,P011,P012,2026-06-11 15:53:00,447,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00412,P012,P015,2026-06-11 23:20:00,1386,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00374,P004,P005,2026-06-11 23:40:00,563,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00505,P010,P013,2026-06-12 09:05:00,706,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00565,P014,P012,2026-06-13 09:38:00,161,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00347,P010,P013,2026-06-13 10:20:00,88,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00862,P010,P004,2026-06-13 22:36:00,816,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00131,P005,P001,2026-06-14 00:06:00,1215,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00558,P004,P003,2026-06-14 00:39:00,44,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00929,P005,P010,2026-06-14 01:29:00,1095,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00056,P009,P007,2026-06-14 02:19:00,316,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00651,P004,P011,2026-06-14 10:57:00,571,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00460,P003,P004,2026-06-14 14:35:00,912,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00923,P015,P008,2026-06-14 23:48:00,80,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00748,P003,P007,2026-06-15 01:42:00,89,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00136,P010,P007,2026-06-15 14:10:00,685,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00562,P001,P002,2026-06-16 02:34:00,963,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00085,P009,P010,2026-06-16 03:43:00,1098,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00095,P002,P011,2026-06-16 03:50:00,270,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00069,P010,P008,2026-06-16 05:36:00,15,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00105,P010,P013,2026-06-16 09:10:00,322,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00527,P010,P013,2026-06-17 06:00:00,290,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00939,P008,P012,2026-06-17 08:11:00,221,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00423,P011,P006,2026-06-17 11:01:00,1247,SMS,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00077,P008,P012,2026-06-17 23:08:00,97,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00124,P003,P014,2026-06-18 03:26:00,798,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00789,P004,P011,2026-06-18 07:46:00,1378,SMS,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00218,P004,P011,2026-06-18 08:57:00,1303,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00350,P015,P011,2026-06-18 09:04:00,1465,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00384,P013,P011,2026-06-18 20:39:00,1591,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00426,P014,P011,2026-06-19 01:30:00,820,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00664,P005,P010,2026-06-19 02:04:00,1281,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00588,P004,P003,2026-06-19 17:33:00,149,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00163,P010,P013,2026-06-20 04:42:00,1719,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00159,P010,P006,2026-06-20 10:01:00,1085,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00536,P003,P007,2026-06-20 15:04:00,1236,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00849,P003,P005,2026-06-20 22:22:00,1401,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00074,P005,P003,2026-06-21 16:37:00,595,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00522,P003,P002,2026-06-22 00:36:00,711,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00780,P003,P007,2026-06-22 13:55:00,1502,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00993,P007,P009,2026-06-22 15:38:00,900,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00858,P005,P010,2026-06-22 16:53:00,481,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00779,P006,P007,2026-06-22 22:23:00,304,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00061,P008,P012,2026-06-23 01:06:00,1042,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00421,P001,P002,2026-06-23 03:12:00,1684,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00921,P001,P004,2026-06-23 03:50:00,344,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00746,P003,P007,2026-06-23 09:54:00,1636,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00319,P014,P015,2026-06-23 14:57:00,1628,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00790,P004,P011,2026-06-23 15:50:00,1601,SMS,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00911,P013,P003,2026-06-23 17:36:00,445,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00108,P008,P012,2026-06-25 14:53:00,686,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00605,P013,P003,2026-06-25 19:26:00,763,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00674,P003,P007,2026-06-26 07:41:00,1446,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00595,P009,P010,2026-06-26 08:39:00,463,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00467,P010,P013,2026-06-27 14:34:00,1565,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00577,P015,P012,2026-06-28 14:56:00,85,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00507,P007,P009,2026-06-28 17:42:00,50,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00845,P007,P008,2026-06-28 18:57:00,951,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00702,P005,P010,2026-06-29 12:48:00,1345,SMS,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00034,P009,P003,2026-06-29 19:49:00,678,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00552,P014,P011,2026-06-30 02:30:00,669,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00731,P009,P007,2026-06-30 02:37:00,1516,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00024,P005,P010,2026-06-30 03:45:00,1664,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00894,P002,P001,2026-06-30 11:11:00,481,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00437,P012,P011,2026-06-30 15:19:00,1098,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00386,P010,P012,2026-06-30 17:24:00,1215,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00620,P010,P013,2026-06-30 22:29:00,1608,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00033,P005,P010,2026-07-01 02:50:00,1053,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00079,P015,P006,2026-07-01 11:49:00,1364,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00501,P005,P010,2026-07-01 20:19:00,1161,SMS,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00320,P008,P012,2026-07-02 10:11:00,351,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00699,P004,P001,2026-07-02 10:35:00,1088,SMS,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00763,P001,P003,2026-07-02 11:56:00,510,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00422,P010,P013,2026-07-02 13:36:00,647,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00841,P006,P010,2026-07-02 14:44:00,216,SMS,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00187,P005,P010,2026-07-02 16:39:00,1700,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00798,P002,P004,2026-07-02 20:12:00,903,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00403,P005,P010,2026-07-03 07:38:00,782,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00030,P010,P013,2026-07-03 13:19:00,1536,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00055,P008,P012,2026-07-03 18:03:00,1248,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00793,P005,P010,2026-07-04 03:52:00,261,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00068,P002,P004,2026-07-04 05:58:00,175,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00013,P001,P005,2026-07-04 15:55:00,420,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00360,P010,P008,2026-07-04 22:03:00,769,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00554,P002,P004,2026-07-05 01:41:00,1545,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00032,P013,P012,2026-07-05 11:58:00,155,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00140,P002,P001,2026-07-05 12:21:00,720,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00446,P005,P010,2026-07-05 13:26:00,1582,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00162,P010,P013,2026-07-05 17:33:00,1512,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00648,P004,P002,2026-07-06 00:22:00,1359,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00809,P003,P007,2026-07-06 00:52:00,1526,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00458,P013,P015,2026-07-06 01:08:00,826,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00926,P002,P005,2026-07-07 08:23:00,1400,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00126,P003,P007,2026-07-07 09:48:00,53,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00180,P014,P010,2026-07-07 12:55:00,562,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00474,P003,P007,2026-07-07 23:27:00,1043,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00732,P004,P011,2026-07-08 09:26:00,1612,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00342,P007,P008,2026-07-08 11:00:00,369,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00510,P004,P005,2026-07-08 12:02:00,1630,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00575,P005,P003,2026-07-08 22:33:00,253,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00572,P008,P009,2026-07-08 23:43:00,386,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00591,P014,P011,2026-07-09 03:26:00,1357,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00932,P008,P012,2026-07-09 23:52:00,1097,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00709,P003,P001,2026-07-10 00:23:00,1418,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00252,P004,P005,2026-07-10 01:07:00,1661,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00266,P013,P014,2026-07-10 07:03:00,1754,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00039,P003,P002,2026-07-10 07:06:00,395,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00637,P004,P003,2026-07-10 11:16:00,1633,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00425,P004,P011,2026-07-10 12:14:00,1149,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00316,P004,P011,2026-07-10 18:13:00,329,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00343,P011,P012,2026-07-11 04:21:00,378,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00255,P003,P007,2026-07-11 11:45:00,51,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00150,P015,P014,2026-07-11 11:56:00,1697,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00797,P007,P006,2026-07-11 21:49:00,1130,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00765,P003,P007,2026-07-12 09:02:00,1664,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00367,P013,P008,2026-07-12 21:36:00,1777,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00481,P008,P012,2026-07-13 08:38:00,211,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00188,P003,P002,2026-07-13 13:29:00,43,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-01000,P005,P010,2026-07-13 14:47:00,1674,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00995,P003,P007,2026-07-14 01:19:00,172,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00377,P005,P010,2026-07-14 06:16:00,23,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00449,P008,P006,2026-07-14 13:41:00,1722,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00469,P003,P007,2026-07-14 17:19:00,1128,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00578,P008,P012,2026-07-14 21:32:00,974,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00966,P002,P004,2026-07-15 00:16:00,20,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00209,P005,P010,2026-07-15 00:32:00,120,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00445,P003,P001,2026-07-15 02:48:00,729,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00078,P015,P009,2026-07-15 10:22:00,1536,SMS,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00683,P006,P010,2026-07-15 17:02:00,1740,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00701,P012,P011,2026-07-15 19:06:00,856,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00961,P005,P010,2026-07-15 20:27:00,495,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00876,P004,P001,2026-07-15 23:41:00,1344,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00589,P003,P005,2026-07-16 05:18:00,291,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00401,P014,P012,2026-07-16 10:56:00,119,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00439,P014,P013,2026-07-16 16:56:00,275,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00246,P003,P007,2026-07-16 17:10:00,1714,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00644,P010,P013,2026-07-16 17:19:00,1345,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00954,P011,P014,2026-07-16 22:22:00,1514,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00058,P007,P002,2026-07-17 00:09:00,608,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00991,P003,P005,2026-07-17 05:25:00,24,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00331,P005,P010,2026-07-17 07:40:00,1335,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00491,P005,P010,2026-07-17 08:31:00,1734,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00440,P005,P006,2026-07-17 15:57:00,857,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00114,P013,P014,2026-07-18 02:25:00,209,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00593,P008,P012,2026-07-18 06:35:00,865,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00933,P009,P008,2026-07-18 06:37:00,302,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00519,P005,P010,2026-07-18 12:22:00,1693,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00462,P005,P010,2026-07-18 23:53:00,897,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00328,P014,P004,2026-07-19 00:37:00,683,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00684,P011,P015,2026-07-19 08:59:00,578,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00408,P004,P011,2026-07-19 15:58:00,421,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00371,P003,P007,2026-07-20 01:00:00,350,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00029,P004,P005,2026-07-20 05:50:00,81,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00968,P005,P010,2026-07-20 13:20:00,238,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00738,P001,P004,2026-07-20 17:39:00,1267,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00686,P003,P007,2026-07-20 18:33:00,1625,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00665,P002,P005,2026-07-21 01:42:00,437,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00356,P013,P015,2026-07-21 03:05:00,227,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00730,P005,P010,2026-07-21 03:05:00,403,SMS,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00004,P005,P010,2026-07-21 09:05:00,965,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00208,P015,P010,2026-07-21 21:04:00,41,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00354,P014,P015,2026-07-21 21:49:00,1020,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00189,P009,P014,2026-07-22 01:08:00,33,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00941,P009,P008,2026-07-22 08:11:00,59,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00243,P014,P015,2026-07-22 16:48:00,589,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00152,P013,P012,2026-07-22 20:47:00,1048,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00280,P005,P003,2026-07-23 00:52:00,1099,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00499,P010,P013,2026-07-23 10:48:00,749,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00856,P003,P007,2026-07-23 16:32:00,887,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00641,P003,P002,2026-07-24 06:51:00,886,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00509,P006,P010,2026-07-24 12:51:00,1659,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00768,P005,P004,2026-07-24 15:52:00,1229,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00165,P004,P011,2026-07-24 23:38:00,1420,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00098,P002,P003,2026-07-25 03:59:00,1798,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00072,P006,P011,2026-07-25 05:20:00,169,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00297,P010,P013,2026-07-25 20:52:00,181,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00743,P011,P003,2026-07-26 01:44:00,1268,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00785,P003,P007,2026-07-26 15:42:00,1293,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00111,P007,P006,2026-07-26 18:40:00,1536,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00064,P010,P013,2026-07-26 18:53:00,1002,SMS,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00650,P008,P012,2026-07-27 14:15:00,923,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00749,P010,P013,2026-07-27 15:47:00,1119,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00560,P001,P005,2026-07-28 09:34:00,1542,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00568,P008,P012,2026-07-28 09:49:00,71,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00097,P001,P003,2026-07-28 13:02:00,1105,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00416,P002,P001,2026-07-28 14:29:00,1619,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00427,P006,P011,2026-07-28 17:23:00,771,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00965,P012,P005,2026-07-28 17:28:00,1496,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00791,P008,P012,2026-07-29 05:35:00,1060,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00570,P005,P001,2026-07-29 09:24:00,478,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00799,P005,P010,2026-07-29 12:06:00,611,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00387,P009,P007,2026-07-29 18:13:00,939,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00148,P001,P004,2026-07-30 04:04:00,47,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00264,P015,P011,2026-07-30 12:13:00,1380,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00877,P010,P013,2026-07-30 12:13:00,298,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00102,P010,P006,2026-07-31 20:16:00,570,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00744,P001,P003,2026-08-01 03:49:00,514,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00999,P008,P001,2026-08-01 05:35:00,1493,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00824,P006,P008,2026-08-01 11:54:00,1053,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00586,P003,P007,2026-08-01 17:55:00,763,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00671,P005,P010,2026-08-01 21:00:00,1059,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00296,P007,P008,2026-08-02 06:52:00,100,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00853,P005,P006,2026-08-02 15:33:00,1320,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00682,P012,P009,2026-08-02 20:01:00,1555,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00978,P003,P007,2026-08-02 20:37:00,1695,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00745,P008,P012,2026-08-02 20:41:00,485,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00772,P007,P008,2026-08-02 23:46:00,1541,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00934,P015,P003,2026-08-03 04:43:00,1202,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00544,P010,P013,2026-08-03 07:21:00,1086,SMS,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00675,P008,P006,2026-08-03 11:15:00,1090,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00242,P004,P011,2026-08-03 13:33:00,385,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00216,P012,P008,2026-08-03 22:47:00,88,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00629,P004,P011,2026-08-04 01:39:00,254,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00582,P015,P008,2026-08-04 08:07:00,521,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00812,P004,P002,2026-08-04 20:14:00,1190,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00541,P010,P009,2026-08-05 05:50:00,1309,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00060,P003,P007,2026-08-05 09:28:00,91,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00667,P005,P013,2026-08-05 11:13:00,1318,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00168,P005,P003,2026-08-06 04:58:00,1294,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00859,P004,P012,2026-08-06 13:52:00,1661,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00084,P003,P004,2026-08-07 04:30:00,1375,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00767,P006,P010,2026-08-07 12:43:00,493,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00632,P005,P010,2026-08-08 01:46:00,1223,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00023,P003,P007,2026-08-08 06:06:00,766,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00205,P006,P014,2026-08-09 01:16:00,1584,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00504,P004,P011,2026-08-09 17:18:00,664,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00073,P009,P008,2026-08-09 22:57:00,859,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00531,P010,P009,2026-08-10 17:14:00,376,SMS,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00844,P014,P012,2026-08-10 17:19:00,120,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00950,P008,P006,2026-08-11 04:36:00,1566,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00508,P006,P007,2026-08-11 05:44:00,300,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00285,P011,P014,2026-08-11 05:49:00,619,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00864,P006,P009,2026-08-11 23:13:00,719,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00121,P009,P013,2026-08-12 09:05:00,742,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00672,P001,P002,2026-08-12 21:09:00,577,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00053,P003,P004,2026-08-12 22:32:00,178,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00170,P004,P011,2026-08-13 02:28:00,204,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00477,P002,P005,2026-08-13 16:50:00,1431,SMS,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00247,P001,P002,2026-08-13 19:19:00,86,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00736,P005,P010,2026-08-13 22:53:00,1474,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00502,P009,P015,2026-08-14 05:53:00,1094,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00490,P009,P008,2026-08-14 11:45:00,900,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00913,P014,P012,2026-08-14 12:43:00,530,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00692,P002,P004,2026-08-14 16:06:00,1222,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00317,P015,P014,2026-08-15 08:47:00,140,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00948,P011,P009,2026-08-16 01:44:00,499,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00361,P004,P011,2026-08-16 12:46:00,1005,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00881,P008,P012,2026-08-16 13:07:00,314,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00428,P006,P011,2026-08-16 20:28:00,707,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00884,P006,P008,2026-08-17 05:26:00,105,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00804,P004,P005,2026-08-17 16:48:00,1421,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00321,P004,P011,2026-08-17 17:12:00,1301,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00239,P013,P012,2026-08-17 18:09:00,1275,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00639,P003,P007,2026-08-18 06:01:00,588,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00540,P005,P010,2026-08-18 09:08:00,31,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00424,P004,P011,2026-08-18 12:19:00,80,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00759,P003,P007,2026-08-18 16:47:00,89,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00918,P004,P008,2026-08-18 17:49:00,1560,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00621,P008,P009,2026-08-18 21:05:00,1306,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00051,P012,P015,2026-08-19 17:29:00,1211,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00461,P006,P008,2026-08-19 20:22:00,750,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00338,P012,P013,2026-08-20 03:30:00,762,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00434,P003,P014,2026-08-20 06:38:00,1038,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00332,P015,P011,2026-08-20 07:37:00,377,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00533,P008,P012,2026-08-20 12:20:00,768,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00396,P005,P003,2026-08-20 14:18:00,1721,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00144,P006,P008,2026-08-20 17:12:00,375,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00753,P004,P011,2026-08-21 05:44:00,1196,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00627,P015,P013,2026-08-21 06:40:00,73,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00290,P007,P008,2026-08-21 09:12:00,873,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00870,P009,P006,2026-08-21 12:31:00,1354,VOICE_CALL,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00392,P001,P003,2026-08-21 17:32:00,1078,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00294,P008,P012,2026-08-21 18:24:00,844,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00497,P015,P014,2026-08-21 18:58:00,1350,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00089,P005,P010,2026-08-22 00:02:00,732,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00997,P006,P008,2026-08-22 06:07:00,687,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00823,P010,P013,2026-08-22 16:36:00,1397,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00770,P014,P012,2026-08-22 18:38:00,1149,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00516,P003,P007,2026-08-23 03:46:00,1532,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00887,P007,P009,2026-08-23 06:41:00,799,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00915,P015,P012,2026-08-23 17:17:00,1131,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00059,P008,P007,2026-08-24 05:37:00,879,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00850,P003,P007,2026-08-24 05:40:00,1175,VOICE_CALL,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00415,P003,P007,2026-08-24 07:57:00,1578,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00892,P011,P001,2026-08-24 11:10:00,885,SMS,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00610,P002,P005,2026-08-24 18:09:00,901,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00149,P004,P011,2026-08-24 21:20:00,1670,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00305,P008,P004,2026-08-25 00:00:00,94,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00286,P009,P006,2026-08-25 01:56:00,1288,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00128,P001,P002,2026-08-25 04:14:00,460,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00694,P001,P008,2026-08-25 04:57:00,173,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00248,P012,P014,2026-08-25 15:27:00,929,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00561,P011,P014,2026-08-25 16:21:00,1099,SMS,Tech Park Zone,Synthetic Demonstration Dataset,True
+SYN-CDR-00917,P010,P013,2026-08-25 20:08:00,752,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00761,P009,P010,2026-08-25 20:17:00,1079,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00158,P004,P011,2026-08-26 10:52:00,946,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00006,P012,P001,2026-08-26 14:05:00,1048,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00210,P010,P013,2026-08-26 17:52:00,1496,SMS,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00229,P004,P011,2026-08-26 19:51:00,872,VOICE_CALL,Market Street,Synthetic Demonstration Dataset,True
+SYN-CDR-00104,P007,P006,2026-08-26 21:20:00,209,SMS,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00714,P010,P013,2026-08-26 22:05:00,512,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00875,P012,P011,2026-08-27 03:00:00,1721,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00112,P005,P009,2026-08-27 07:05:00,1176,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00880,P003,P007,2026-08-27 12:18:00,826,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00543,P003,P007,2026-08-28 03:50:00,1449,VOICE_CALL,South Transit Hub,Synthetic Demonstration Dataset,True
+SYN-CDR-00574,P003,P007,2026-08-28 03:55:00,64,VOICE_CALL,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00992,P010,P013,2026-08-28 04:29:00,1035,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00703,P014,P012,2026-08-28 08:37:00,220,VOICE_CALL,Harbour Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00283,P005,P010,2026-08-28 15:49:00,1023,SMS,Metro Station,Synthetic Demonstration Dataset,True
+SYN-CDR-00166,P015,P014,2026-08-28 23:07:00,583,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00553,P013,P014,2026-08-29 01:56:00,147,VOICE_CALL,Old Warehouse District,Synthetic Demonstration Dataset,True
+SYN-CDR-00549,P003,P006,2026-08-29 06:47:00,1152,SMS,Riverbank Road,Synthetic Demonstration Dataset,True
+SYN-CDR-00551,P010,P013,2026-08-29 06:52:00,589,SMS,Industrial Estate,Synthetic Demonstration Dataset,True
+SYN-CDR-00234,P005,P010,2026-08-29 20:10:00,1263,VOICE_CALL,North Railway Junction,Synthetic Demonstration Dataset,True
+SYN-CDR-00945,P014,P007,2026-08-29 20:55:00,76,VOICE_CALL,Central Bus Terminal,Synthetic Demonstration Dataset,True
+SYN-CDR-00391,P008,P014,2026-08-30 04:04:00,1480,VOICE_CALL,Metro Station,Synthetic Demonstration Dataset,True
