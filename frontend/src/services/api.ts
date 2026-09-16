@@ -1,7 +1,13 @@
 import axios from 'axios'
 
+// In local dev, '/api' is proxied to the backend by Vite (see vite.config.ts). In
+// production the frontend and backend are deployed separately (e.g. Vercel + Render),
+// so VITE_API_BASE_URL must point at the deployed backend, e.g.
+// https://your-backend.onrender.com/api.
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || '/api'
+
 export const api = axios.create({
-  baseURL: '/api',
+  baseURL: API_BASE_URL,
 })
 
 api.interceptors.request.use((config) => {

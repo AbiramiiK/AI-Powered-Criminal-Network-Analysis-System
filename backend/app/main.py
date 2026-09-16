@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import logging
+import os
 
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
@@ -19,10 +20,17 @@ app = FastAPI(
     version="0.1.0",
 )
 
+# CORS_ORIGINS: comma-separated list of allowed frontend origins (e.g. the deployed
+# Vercel URL). Defaults to "*" so local development and quick demos work with zero
+# configuration. The app never relies on cookies for auth (Bearer token in a header),
+# so allow_credentials stays False -- this keeps a wildcard origin spec-compliant.
+_cors_origins_env = os.environ.get("CORS_ORIGINS", "*").strip()
+_cors_origins = ["*"] if _cors_origins_env == "*" else [o.strip() for o in _cors_origins_env.split(",") if o.strip()]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
+    allow_origins=_cors_origins,
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
